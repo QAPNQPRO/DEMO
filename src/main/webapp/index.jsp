@@ -11,7 +11,7 @@
 
 <body id="root">
 
-
+    <button ><a href="./about.html">About page</a></button>
 
     <form action="" id="userregform">
 
