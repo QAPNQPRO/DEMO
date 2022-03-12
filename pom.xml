@@ -3,7 +3,7 @@
 	<groupId>DemoWeb</groupId>
 	<artifactId>Demoweb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>yml</packaging>
 
 	<dependencies>
 		<dependency>
