@@ -21,15 +21,39 @@
     justify-content: center;
 
 }
-#navmenu>li>a{
-    margin-top: 0.4rem;
+
+#navitem>li>a{
+    
     margin-left: 20px;
     margin-right: 20px;
+    justify-items: center;
+    padding: 5px 10px;
+    text-decoration: none;
+    
+}
+#container{
+    display: flex;
+    
+    
+}
+#signup{
+    justify-self: flex-start;
+}
+#signin{
+    justify-self: flex-end;
 }
 #btn{
     background-color: aquamarine;
     height: 10px;
     width: 15px;
     border: 1px solid black;
-    border-radius: 10px;
+    border-radius: 3px;
+    margin: 5px 5px 5px 5px;
+}
+
+
+
+.active{
+    color: white;
+    background-color: rgba(86, 59, 111, 0.768);
 }

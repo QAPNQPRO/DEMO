@@ -28,10 +28,10 @@
 
         </ul>
         <div id="signup">
-            <span id="btn"></span>
+            <span id="btn">Sign Up</span>
         </div>
         <div id="signin">
-            <span id="btn"></span>
+            <span id="btn">Sign In</span>
 
         </div>
     </nav>
