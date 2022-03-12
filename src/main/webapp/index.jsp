@@ -66,6 +66,11 @@
                 <td class="boxdot">004</td>
                 <td class="boxdot">Commerce</td>
             </tr>
+            <tr class="box">
+                <td class="boxdot">Khushboo</td>
+                <td class="boxdot">005</td>
+                <td class="boxdot">test</td>
+            </tr>
         </tbody>
 
 
