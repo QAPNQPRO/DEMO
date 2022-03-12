@@ -1,0 +1,24 @@
+#courselist{
+    display: flex;
+    flex-direction: row;
+}
+#testing{
+    display: flex;
+    flex-direction: column;
+}
+#testing>div{
+    height: 3rem;
+    width: 5rem;
+    border: 2px dashed black;
+    margin: 0.5rem 1rem;
+}
+#development{
+    display: flex;
+    flex-direction: column;
+}
+#development>div{
+    height: 3rem;
+    width: 5rem;
+    border: 2px dashed black;
+    margin: 0.5rem 1rem;
+}

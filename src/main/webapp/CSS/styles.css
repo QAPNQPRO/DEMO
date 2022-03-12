@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: beige;
+}
+#navmenu{
+    display: flex;
+    flex-direction: row;
+    border: 3px solid red;
+}
+#logo{
+    height: 20px;
+    width: 20px;
+}
+#navitem{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+    justify-content: center;
+
+}
+#navmenu>li{
+    margin-top: 0.4rem;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#btn{
+    background-color: aquamarine;
+    height: 10px;
+    width: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
