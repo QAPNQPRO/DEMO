@@ -14,8 +14,8 @@
 <header>
 
     <nav id="navmenu">
-        <div id="logo">
-            <img src="./images/logo.jpg" alt="logo">
+        <div >
+            <img id="logo" src="./images/logo.jpg" alt="logo">
         </div>
         <ul id="navitem">
 
